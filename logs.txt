@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 first git commit
+=======
+this a check 
+>>>>>>> parent of 9a55d6b... this a 5th commit
 =======
 this a check 
 >>>>>>> parent of 9a55d6b... this a 5th commit
