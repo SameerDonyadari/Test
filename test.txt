@@ -1,2 +1,1 @@
-this a test for git bash.
-this a second test
+this a test for git bash
