@@ -1,3 +1,4 @@
 this a test for git bash
 this a stashing test and i change my branch
 this a test for ignoring 
+this another line for testing ignorance
