@@ -1,2 +1,3 @@
 testing git ignor
 test 2 for ignoring files
+test3
