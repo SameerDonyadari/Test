@@ -3,3 +3,4 @@ this a stashing test and i change my branch
 this a test for ignoring 
 this another line for testing ignorance
 i practice the add interactive
+i am new to git and try to understand the concepts
